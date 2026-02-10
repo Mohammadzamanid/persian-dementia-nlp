@@ -1,22 +1,7 @@
-# Python
+*.pyc
 __pycache__/
-*.py[cod]
-.ipynb_checkpoints/
+.DS_Store
 .venv/
 venv/
-.env
-
-# Data (keep private)
-data/
-**/raw/
-**/private/
-*.wav
-*.mp3
-*.mp4
-
-# Outputs
-runs/
-outputs/
-results/
-figures/generated/
-*.log
+.idea/
+*.egg-info/
