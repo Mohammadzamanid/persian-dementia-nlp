@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or derived feature tables, please cite it using these metadata."
+type: software
+title: "Persian Dementia NLP (Connected Speech): LII + Robust HC3 Inference"
+abstract: "Analysis code and de-identified derived feature tables for a Persian (Farsi) connected-speech study across Control, MCI, and mild AD, including robust HC3 inference, multiplicity control, validity analyses, and internal-validation prediction outputs."
+authors:
+  - given-names: Mohammad
+    family-names: Zamani
+    orcid: "https://orcid.org/0009-0000-9566-4093"
+    affiliation: "Department of Psychology, Faculty of Psychology and Education, University of Tehran"
+license: "MIT"
+repository-code: "https://github.com/Mohammadzamanid/persian-dementia-nlp"
+url: "https://github.com/Mohammadzamanid/persian-dementia-nlp"
+version: "0.1.0"
+keywords:
+  - Alzheimer disease
+  - mild cognitive impairment
+  - connected speech
+  - natural language processing
+  - Persian
+  - semantic informativeness
+  - sentence embeddings
+  - robust inference
