@@ -33,9 +33,14 @@ python -m venv .venv
 source .venv/bin/activate
 # Windows PowerShell:
 # .\.venv\Scripts\Activate.ps1
-
+```
+### 1) install requirements
+```bash
 pip install -U pip
 pip install -r requirements.txt
+```
+### 2) run main script
+```bash
 python scripts/<your_main_analysis_script>.py
-
+```
 If you use this code, please cite the repository. See CITATION.cff
